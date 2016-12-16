@@ -8,7 +8,7 @@
     "grammar",
     "cssx"
   ],
-  "repository": "https://github.com/atom/language-cssx",
+  "repository": "https://github.com/jcperez-ch/language-cssx",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
