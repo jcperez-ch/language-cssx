@@ -1,0 +1,16 @@
+# If you want some example snippets, check out:
+# https://github.com/atom/language-gfm/blob/master/snippets/gfm.cson
+
+'.source.cssx':
+  'Style Block':
+    'prefix': 'style'
+    'body': '<style>$1</style>'
+  'Style Block (return)':
+    'prefix': 'return-style'
+    'body': 'return <style>$1</style>'
+  'Style Block (const)':
+    'prefix': 'const-style'
+    'body': 'const ${1:sheet} = <style>$2</style>'
+  'Sheet Definition':
+    'prefix': 'cssx'
+    'body': 'const ${1:sheet} = cssx();'

@@ -1,0 +1,16 @@
+{
+  "name": "language-cssx",
+  "version": "0.0.0",
+  "description": "CSSX Language definition",
+  "author": "JC Perez Chavez",
+  "keywords": [
+    "language",
+    "grammar",
+    "cssx"
+  ],
+  "repository": "https://github.com/atom/language-cssx",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
